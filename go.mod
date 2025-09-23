@@ -1,4 +1,4 @@
-module crypto-bot
+module github.com/abdigaliarslan/crypto-bot
 
 go 1.22.2
 
